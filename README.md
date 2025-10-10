@@ -1,5 +1,5 @@
-<p align="center">
-  [rentry](https://rentry.co/duorapier)
+[rentry](https://rentry.co/duorapier)
+
 ![how do i customize this help](https://komarev.com/ghpvc/?username=rapierduo&label=team+apocalypse&color=850310)
 
 <p align="center">    
