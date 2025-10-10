@@ -1,5 +1,6 @@
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎     ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎‎ ‎ ‎ ‎ ‎   ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎     ‎ ‎ ‎ ‎ ‎ ‎‎ ‎   ‎ ‎     ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎  ![how do i customize this help](https://komarev.com/ghpvc/?username=rapierduo&label=team+apocalypse&color=850310)
+<p align="center">
+  [rentry](https://rentry.co/duorapier)
+![how do i customize this help](https://komarev.com/ghpvc/?username=rapierduo&label=team+apocalypse&color=850310)
 
 <p align="center">    
 <img width="400" height="500" alt="teamapoc, art credits to monpierce on tumblr!! i love the team so muc" src="https://github.com/user-attachments/assets/6cc5b221-c61d-48da-9678-ba06bbdae6d2" />
