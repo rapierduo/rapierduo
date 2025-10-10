@@ -1,6 +1,6 @@
-[rentry](https://rentry.co/duorapier)
+<p align="center">[rentry](https://rentry.co/duorapier)
 
-![how do i customize this help](https://komarev.com/ghpvc/?username=rapierduo&label=team+apocalypse&color=850310)
+![a](https://komarev.com/ghpvc/?username=rapierduo&label=team+apocalypse&color=850310)
 
 <p align="center">    
 <img width="400" height="500" alt="teamapoc, art credits to monpierce on tumblr!! i love the team so muc" src="https://github.com/user-attachments/assets/6cc5b221-c61d-48da-9678-ba06bbdae6d2" />
@@ -17,7 +17,11 @@
 </p>
 
 
-‎ ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎ ‎<p align="center">
+  <a href="https://rentry.co/duorapier">rentry</a> 𓏴
+  <a href="https://x.com/rekstuff">twt </a> 𓏴
+  <a href="https://rekrap2.atabook.org">ata </a>
+
 
 ‎ ‎ ‎ ‎
 
